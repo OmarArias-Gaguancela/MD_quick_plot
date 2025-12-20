@@ -178,7 +178,7 @@ GitHub: https://github.com/OmarArias-Gaguancela
 For questions, issues, or workshop inquiries:
 
 - **Email**: Contact SciLearningWorkshops LLC
-- **LinkedIn**: [Omar Arias-Gaguancela](https://www.linkedin.com/in/omararias/)
+- **LinkedIn**: [Omar Arias-Gaguancela]([https://www.linkedin.com/in/omararias/](https://www.linkedin.com/in/omarariasgaguancela/))
 - **Issues**: Please open an issue on GitHub
 - **Feature Requests**: Contributions welcome!
 
