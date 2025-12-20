@@ -165,10 +165,22 @@ For workshop information, visit our website: https://scilearningworkshops.carrd.
 
 If you use this tool in your research or educational materials, please cite:
 ```
-SciLearningWorkshops LLC (2025)
-MD Trajectory Analysis Tool
-Developer: Omar Arias-Gaguancela, PhD
-GitHub: https://github.com/OmarArias-Gaguancela 
+If you use this tool in your research or educational materials, please cite:
+```bibtex
+@software{md_quick_plot,
+  author       = {Omar Arias-Gaguancela},
+  title        = {MD\_quick\_plot: A Tool for Streamlined MD Trajectory Analysis},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/OmarArias-Gaguancela/MD_quick_plot}
+}
+```
+
+**Or in text format:**
+```
+Arias-Gaguancela, O. (2025). MD_quick_plot: A Tool for Streamlined MD Trajectory Analysis. 
+GitHub. https://github.com/OmarArias-Gaguancela/MD_quick_plot
+```
 ```
 
 ---
