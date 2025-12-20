@@ -9,7 +9,7 @@ This tool is designed to **streamline the analysis of Molecular Dynamics (MD) si
 1. **Structural file** (PDB, GRO)
 2. **Trajectory file** (XTC, TRR, DCD)
 
-No complex scripting required—just load your files and run comprehensive analyses with publication-ready visualizations!
+No complex scripting required. Just load your files and run comprehensive analyses with publication-ready visualizations!!
 
 ---
 
