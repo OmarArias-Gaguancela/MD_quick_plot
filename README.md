@@ -50,12 +50,12 @@ This tool automatically generates the following analyses:
 
 ## Key Advantages
 
-✅ **Simple Input**: Only requires topology + trajectory files  
-✅ **Automated Workflow**: Run all analyses with one command  
-✅ **Publication-Ready Figures**: High-resolution (300 DPI) plots  
-✅ **No Installation Hassle**: Runs in Google Colab  
-✅ **Flexible Selections**: Customizable atom/residue selections  
-✅ **Comprehensive Output**: Statistical summaries included  
+**Simple Input**: Only requires topology + trajectory files  
+**Automated Workflow**: Run all analyses with one command  
+**Publication-Ready Figures**: High-resolution (300 DPI) plots  
+**No Installation Hassle**: Runs in Google Colab  
+**Flexible Selections**: Customizable atom/residue selections  
+**Comprehensive Output**: Statistical summaries included  
 
 ---
 
@@ -177,10 +177,10 @@ GitHub: https://github.com/OmarArias-Gaguancela
 
 For questions, issues, or workshop inquiries:
 
-- 📧 **Email**: Contact SciLearningWorkshops LLC
-- 💼 **LinkedIn**: [Omar Arias-Gaguancela](https://www.linkedin.com/in/omararias/)
-- 🐛 **Issues**: Please open an issue on GitHub
-- 💡 **Feature Requests**: Contributions welcome!
+- **Email**: Contact SciLearningWorkshops LLC
+- **LinkedIn**: [Omar Arias-Gaguancela](https://www.linkedin.com/in/omararias/)
+- **Issues**: Please open an issue on GitHub
+- **Feature Requests**: Contributions welcome!
 
 ---
 
@@ -216,7 +216,7 @@ This software is provided for educational and research purposes.
 
 **Ready to analyze your MD simulations?**
 
-👉 **[Click here to open the notebook in Google Colab](https://colab.research.google.com/drive/1RtROKVsXEXbweYUDkGCRmySlES3AgfvU?usp=drive_link)** 👈
+**[Click here to open the notebook in Google Colab](https://colab.research.google.com/drive/1RtROKVsXEXbweYUDkGCRmySlES3AgfvU?usp=drive_link)** 
 
 ---
 
@@ -232,4 +232,4 @@ analyzer = MDAnalyzer(
 analyzer.run_complete_analysis()
 ```
 
-**That's it! All plots generated automatically.** 🎉
+
