@@ -196,14 +196,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## License
-
-© 2025 SciLearningWorkshops LLC. All rights reserved.
-
-This software is provided for educational and research purposes.
-
----
-
 ## Acknowledgments
 
 - Built with [MDAnalysis](https://www.mdanalysis.org/)
