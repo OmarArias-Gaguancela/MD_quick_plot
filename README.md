@@ -1,6 +1,6 @@
 # MD_quick_plot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb](https://colab.research.google.com/drive/1RtROKVsXEXbweYUDkGCRmySlES3AgfvU?usp=sharing))
 
 ## Overview
 
@@ -216,7 +216,7 @@ This software is provided for educational and research purposes.
 
 **Ready to analyze your MD simulations?**
 
-**[Click here to open the notebook in Google Colab](https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb)** 
+**[Click here to open the notebook in Google Colab]([https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb](https://colab.research.google.com/drive/1RtROKVsXEXbweYUDkGCRmySlES3AgfvU?usp=sharing))** 
 
 ---
 
