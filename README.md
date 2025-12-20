@@ -50,12 +50,12 @@ This tool automatically generates the following analyses:
 
 ## Key Advantages
 
-✅ **Simple Input**: Only requires topology + trajectory files  
-✅ **Automated Workflow**: Run all analyses with one command  
-✅ **Publication-Ready Figures**: High-resolution (300 DPI) plots  
-✅ **No Installation Hassle**: Runs in Google Colab  
-✅ **Flexible Selections**: Customizable atom/residue selections  
-✅ **Comprehensive Output**: Statistical summaries included  
+**Simple Input**: Only requires topology + trajectory files  
+**Automated Workflow**: Run all analyses with one command  
+**Publication-Ready Figures**: High-resolution (300 DPI) plots  
+**No Installation Hassle**: Runs in Google Colab  
+**Flexible Selections**: Customizable atom/residue selections  
+**Comprehensive Output**: Statistical summaries included  
 
 ---
 
