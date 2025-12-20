@@ -181,8 +181,6 @@ If you use this tool in your research or educational materials, please cite:
 Arias-Gaguancela, O. (2025). MD_quick_plot: A Tool for Streamlined MD Trajectory Analysis. 
 GitHub. https://github.com/OmarArias-Gaguancela/MD_quick_plot
 ```
-```
-
 ---
 
 ## Support & Contact
