@@ -1,10 +1,8 @@
 # MD_quick_plot
-Plots MD simulations data figures using structural and trajectories files. Compatible formats include:  GROMACS, AMBER, CHARMM, NAMD trajectories
-# 🧬 MD Trajectory Analysis Tool
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb)
 
-## 📋 Overview
+## Overview
 
 This tool is designed to **streamline the analysis of Molecular Dynamics (MD) simulation data** by simplifying the workflow to just two essential inputs:
 
@@ -15,7 +13,7 @@ No complex scripting required—just load your files and run comprehensive analy
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Click the badge above to open the notebook in Google Colab!
 
@@ -35,7 +33,7 @@ analyzer.run_complete_analysis(output_prefix="my_analysis")
 
 ---
 
-## 📊 Analysis Features
+## Analysis Features
 
 This tool automatically generates the following analyses:
 
@@ -50,7 +48,7 @@ This tool automatically generates the following analyses:
 
 ---
 
-## 🎯 Key Advantages
+## Key Advantages
 
 ✅ **Simple Input**: Only requires topology + trajectory files  
 ✅ **Automated Workflow**: Run all analyses with one command  
@@ -61,7 +59,7 @@ This tool automatically generates the following analyses:
 
 ---
 
-## 📥 Input Requirements
+## Input Requirements
 
 ### 1. Topology File (Structural File)
 
@@ -78,7 +76,7 @@ Supported formats:
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 Each analysis generates:
 - **High-quality PNG images** (300 DPI)
@@ -97,7 +95,7 @@ Each analysis generates:
 
 ---
 
-## 🛠️ Customization Options
+## Customization Options
 
 ### Custom Selections
 ```python
@@ -132,7 +130,7 @@ fel, xedges, yedges = analyzer.calculate_free_energy_landscape()
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 The following packages are automatically installed in Google Colab:
 ```python
@@ -145,7 +143,7 @@ scipy
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - **Protein Stability Analysis**: Monitor RMSD and Rg to assess structural stability
 - **Protein-Ligand Binding**: Evaluate binding modes and interaction energies
@@ -155,44 +153,38 @@ scipy
 
 ---
 
-## 🎓 Educational Resources
+## Educational Resources
 
 This tool is part of the **SciLearningWorkshops LLC** educational suite for computational biology training.
 
-### Available Workshops:
-- Protein Modeling Fundamentals
-- Molecular Dynamics Simulations
-- Protein-Ligand Docking & Analysis
-- Computational Drug Discovery
-
-For workshop information, visit our training programs.
+For workshop information, visit our webite: https://scilearningworkshops.carrd.co/ 
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this tool in your research or educational materials, please cite:
 ```
 SciLearningWorkshops LLC (2025)
 MD Trajectory Analysis Tool
 Developer: Omar Arias-Gaguancela, PhD
-GitHub: https://github.com/[your-username]/[repository-name]
+GitHub: https://github.com/OmarArias-Gaguancela 
 ```
 
 ---
 
-## 🆘 Support & Contact
+## Support & Contact
 
 For questions, issues, or workshop inquiries:
 
-- 📧 **Email**: Contact SciLearningWorkshops LLC
-- 💼 **LinkedIn**: [Omar Arias-Gaguancela](https://www.linkedin.com/in/omararias/)
-- 🐛 **Issues**: Please open an issue on GitHub
-- 💡 **Feature Requests**: Contributions welcome!
+- **Email**: Contact SciLearningWorkshops LLC
+- **LinkedIn**: [Omar Arias-Gaguancela](https://www.linkedin.com/in/omararias/)
+- **Issues**: Please open an issue on GitHub
+- **Feature Requests**: Contributions welcome!
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -204,7 +196,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📜 License
+## License
 
 © 2025 SciLearningWorkshops LLC. All rights reserved.
 
@@ -212,7 +204,7 @@ This software is provided for educational and research purposes.
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Built with [MDAnalysis](https://www.mdanalysis.org/)
 - Visualization powered by [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
@@ -220,11 +212,11 @@ This software is provided for educational and research purposes.
 
 ---
 
-## 🚀 Get Started Now!
+## Get Started Now!
 
 **Ready to analyze your MD simulations?**
 
-👉 **[Click here to open the notebook in Google Colab](https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb)** 👈
+**[Click here to open the notebook in Google Colab](https://colab.research.google.com/gist/OmarArias-Gaguancela/b096dad629eadeb49fc0ef2ec1fd7d7d/md_analysis_template_scilearningworkshops.ipynb)** 
 
 ---
 
@@ -240,4 +232,3 @@ analyzer = MDAnalyzer(
 analyzer.run_complete_analysis()
 ```
 
-**That's it! All plots generated automatically.** 🎉
